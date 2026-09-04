@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PySpark / Hadoop temporary files
+*.crc
+
+# Generated data
+data/processed/
+data/quarantine/
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
